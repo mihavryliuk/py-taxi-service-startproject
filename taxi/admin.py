@@ -20,4 +20,3 @@ class DriverAdmin(UserAdmin):
 
 
 admin.site.register(Manufacturer)
-
